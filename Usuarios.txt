@@ -1,4 +1,4 @@
 creando un archivo de suarios y su control de acceso a esta repositorio
 
 Modificado desde el repositorio central
-
+A proposito por ROM
